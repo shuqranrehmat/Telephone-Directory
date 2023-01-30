@@ -1,0 +1,11 @@
+D:\5Semester\Visual Programing\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+D:\5Semester\Visual Programing\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe
+D:\5Semester\Visual Programing\TelephoneDirectory\bin\Debug\TelephoneDirectory.pdb
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.AssemblyReference.cache
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.SuggestedBindingRedirects.cache
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.Phone.resources
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.Properties.Resources.resources
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.GenerateResource.cache
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CoreCompileInputs.cache
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+D:\5Semester\Visual Programing\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
